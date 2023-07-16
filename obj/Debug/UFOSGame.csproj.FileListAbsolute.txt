@@ -1,0 +1,10 @@
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.csproj.AssemblyReference.cache
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.csproj.CoreCompileInputs.cache
+C:\Users\glebi\source\repos\UFOSGame\bin\Debug\UFOSGame.exe.config
+C:\Users\glebi\source\repos\UFOSGame\bin\Debug\UFOSGame.exe
+C:\Users\glebi\source\repos\UFOSGame\bin\Debug\UFOSGame.pdb
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.exe
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.pdb
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.Properties.Resources.resources
+C:\Users\glebi\source\repos\UFOSGame\obj\Debug\UFOSGame.csproj.GenerateResource.cache
