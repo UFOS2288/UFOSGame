@@ -50,7 +50,7 @@ namespace UFOSGame
     {
         public static int screenWidth = 61;
         public static int screenHeight = 21;
-        public static float screenSize = 1f;
+        //public static float screenSize = 1f;
         public static int mapBorders = 10;
         public static List<Object> objects = new List<Object>();
         public static List<Object> backpack = new List<Object>();
